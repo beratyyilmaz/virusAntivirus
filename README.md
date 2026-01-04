@@ -27,7 +27,6 @@ Projede kullanılan başlıca teknolojiler:
 - Antivirüs tarama kütüphaneleri
 - Veri analiz modülleri
 
-> 📌 Kullandığın dile göre bu kısmı özelleştirebilirim.
 
 ## 📥 Kurulum
 
